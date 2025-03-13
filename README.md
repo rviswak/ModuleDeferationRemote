@@ -1,2 +1,2 @@
-# ModuleDeferationRemote
-ModuleDeferationRemote
+# Module Federation
+Module Federation Remote
